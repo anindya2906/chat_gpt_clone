@@ -1,2 +1,2 @@
-# chat_gpt_clone
+# ChatGPT Clone
 Simple Chat GPT like chat bot
